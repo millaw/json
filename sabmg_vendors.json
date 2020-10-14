@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "type_id": "maint",
+        "type": "Maintenance Supply",
+        "name": "Pearlgreen Supply",
+        "url": "pearlgreen.com",
+        "email": "test@test.com",
+        "phone": "555-555-5555"
+    },
+    {
+        "id": 2,
+        "type_id": "floor",
+        "type": "Flooring",
+        "name": "Pearlgreen Supply 2",
+        "url": "",
+        "email": "test@test.com",
+        "phone": "555-555-5556"
+    },
+    {
+        "id": 3,
+        "type_id": "hvac",
+        "type": "HVAC",
+        "name": "Pearlgreen Supply 3",
+        "url": "",
+        "email": "test@test.com",
+        "phone": "555-555-5557"
+    },
+    {
+        "id": 4,
+        "type_id": "test",
+        "type": "Test",
+        "name": "Pearlgreen Supply 4",
+        "url": "",
+        "email": "test@test.com",
+        "phone": "555-555-5558"
+    }
+]
