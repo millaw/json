@@ -12,8 +12,8 @@
         "id": 2,
         "type_id": "floor",
         "type": "Flooring",
-        "name": "Pearlgreen Supply 2",
-        "url": "",
+        "name": "Nolan Select Flooring",
+        "url": "nolanselectfloors.com",
         "email": "test@test.com",
         "phone": "555-555-5556"
     },
@@ -21,17 +21,17 @@
         "id": 3,
         "type_id": "hvac",
         "type": "HVAC",
-        "name": "Pearlgreen Supply 3",
-        "url": "",
+        "name": "Major Air",
+        "url": "majorair.net",
         "email": "test@test.com",
         "phone": "555-555-5557"
     },
     {
         "id": 4,
-        "type_id": "test",
-        "type": "Test",
-        "name": "Pearlgreen Supply 4",
-        "url": "",
+        "type_id": "chute",
+        "type": "Compactor Chute",
+        "name": "Chute Plus",
+        "url": "chuteplus.com",
         "email": "test@test.com",
         "phone": "555-555-5558"
     }
