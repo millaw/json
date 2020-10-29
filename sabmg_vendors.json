@@ -29,7 +29,25 @@
     {
         "id": 4,
         "type_id": "chute",
-        "type": "Compactor Chute",
+        "type": "Compactor Chute 1",
+        "name": "Chute Plus",
+        "url": "chuteplus.com",
+        "email": "test@test.com",
+        "phone": "555-555-5558"
+    },
+    {
+        "id": 5,
+        "type_id": "chute",
+        "type": "Compactor Chute 2",
+        "name": "Chute Plus",
+        "url": "chuteplus.com",
+        "email": "test@test.com",
+        "phone": "555-555-5558"
+    },
+    {
+        "id": 6,
+        "type_id": "chute",
+        "type": "Compactor Chute 3",
         "name": "Chute Plus",
         "url": "chuteplus.com",
         "email": "test@test.com",
